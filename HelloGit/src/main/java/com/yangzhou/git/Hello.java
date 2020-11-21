@@ -14,5 +14,6 @@ public class Hello {
         System.out.println("添加主干");
         System.out.println("添加分支");
         System.out.println("在线更新！");
+        System.out.println("克隆的项目!");
     }
 }
